@@ -38,9 +38,9 @@ A dedicated developer with a strong foundation in building scalable web applicat
 ## 🤝 Connect With Me
 I'm always open to discussing new projects, technical challenges, or the latest match results.
 
-- **LinkedIn:** [linkedin.com/in/your-profile]()
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
-- **Portfolio:** [yourportfolio.com](https://yourportfolio.com)
+- **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/muhammed-sinan-a-5a522536b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- **Email:** [your-email@example.com](mailto:muhdsinan8281@example.com)
+- **Portfolio:** [yourportfolio.com](https://sinan-folio.vercel.app/)
 
 ---
 *"Consistency is what transforms average into excellence."*
