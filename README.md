@@ -1,47 +1,46 @@
-# Hi 👋, I'm Mohammed Sinan
 
-💻 Full Stack Developer (React + Django)  
-🚀 Passionate about building real-world applications  
-📍 Kerala, India  
+# Hi, I'm Muhammed Sinan 👋
+### Full-Stack Software Developer
 
----
-
-## 🔧 Tech Stack
-
-[![HTML](https://img.shields.io/badge/HTML-orange?logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS](https://img.shields.io/badge/CSS-blue?logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-
-[![React](https://img.shields.io/badge/React-blue?logo=react)](https://react.dev/)
-[![Redux](https://img.shields.io/badge/Redux-purple?logo=redux)](https://redux.js.org/)
-
-[![Python](https://img.shields.io/badge/Python-blue?logo=python)](https://www.python.org/)
-[![Django](https://img.shields.io/badge/Django-green?logo=django)](https://www.djangoproject.com/)
-[![Django REST](https://img.shields.io/badge/DRF-red?logo=django)](https://www.django-rest-framework.org/)
-
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql)](https://www.postgresql.org/)
-
-## 📌 Projects
-
-- ⚽ Football Tournament App  
-- 🎁 Reward Scratch Card System  
-- 💬 Realtime Chat App  
+A dedicated developer with a strong foundation in building scalable web applications. I specialize in the **Python/Django** and **React** ecosystem, focusing on clean code, efficient state management, and robust database architecture. 
 
 ---
 
-## 📊 GitHub Stats
+## 🛠️ Technical Scouting Report (Tech Stack)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+### **Frontend Development**
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+### **Backend & Database**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![REST API](https://img.shields.io/badge/-REST%20API-005571?style=for-the-badge&logo=api&logoColor=white)
+
+### **Tools & Achievements**
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
 
 ---
 
-## 📫 Contact Me
-
-- 📧 Email: yourmail@gmail.com  
-- 💼 LinkedIn: your-link  
+## 📈 Activity Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="Sinan's Stats" />
+</p>
 
 ---
 
-⭐️ From [YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+## 🤝 Connect With Me
+I'm always open to discussing new projects, technical challenges, or the latest match results.
+
+- **LinkedIn:** [linkedin.com/in/your-profile]()
+- **Email:** [your-email@example.com](mailto:your-email@example.com)
+- **Portfolio:** [yourportfolio.com](https://yourportfolio.com)
+
+---
+*"Consistency is what transforms average into excellence."*
