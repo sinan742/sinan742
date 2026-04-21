@@ -28,12 +28,6 @@ A dedicated developer with a strong foundation in building scalable web applicat
 
 ---
 
-## 📈 Activity Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="Sinan's Stats" />
-</p>
-
----
 
 ## 🤝 Connect With Me
 I'm always open to discussing new projects, technical challenges, or the latest match results.
